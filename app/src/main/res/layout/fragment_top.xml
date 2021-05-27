@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <android.support.v4.widget.NestedScrollView
+    tools:context="com.arima.bitsandpizzas.TopFragment"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    -<FrameLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:contentDescription="@string/restaurant_image"
+        android:src="@drawable/restaurant"
+        android:scaleType="centerCrop"
+        android:id="@+id/info_image"/>
+
+
+    -<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:padding="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginLeft="16dp"
+    android:layout_marginTop="40dp">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/company_name"
+        android:textSize="32sp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/home_text"/>
+
+</LinearLayout>
+
+</FrameLayout>
+
+</android.support.v4.widget.NestedScrollView>
