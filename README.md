@@ -5,8 +5,8 @@
 ------------------------------
 
 ### ИСТОЧНИК:
-Head First. Программирование для Android /
-Гриффитс Дон, Гриффитс Дэвид / Питер, 2018 / 912 c. / https://github.com/dogriffiths/HeadFirstAndroid2ndEdition - исходный код приложений из учебника /
+* Head First. Программирование для Android / Гриффитс Дон, Гриффитс Дэвид / Питер, 2018 / 912 c. / 
+* https://github.com/dogriffiths/HeadFirstAndroid2ndEdition - исходный код приложений из учебника /
 
 ------------------------------
 
